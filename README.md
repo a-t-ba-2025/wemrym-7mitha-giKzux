@@ -48,7 +48,7 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory with the following content:
 
 ```env
-ROOT_DIR=F:/Datasets/DocLayNet_core
+ROOT_DIR=path_t0/Datasets/DocLayNet_core
 ```
 
 > Replace the path with your actual dataset directory.
