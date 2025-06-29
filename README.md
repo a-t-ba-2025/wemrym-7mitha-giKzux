@@ -7,13 +7,13 @@ This project contains training and evaluation scripts for **Faster R-CNN** and *
 ### System Requirements
 
 - Python **3.10**
-- CUDA-compatible GPU recommended (tested with CUDA 11.8)
+- CUDA-compatible GPU recommended (tested with CUDA 12.7)
 - Windows 10 or 11
 - At least 16 GB RAM (more is recommended for large-scale training)
 
 > **Note:** Make sure your **Torch version** matches your **CUDA version**. You can install the correct PyTorch packages from [https://pytorch.org](https://pytorch.org).
 
-Example (for CUDA 11.8):
+Example (for CUDA 12.7):
 
 ```bash
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
